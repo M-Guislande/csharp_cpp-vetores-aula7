@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "vector": "cpp"
+    },
+    "dotnet.defaultSolution": "tarefa3.sln"
+}
