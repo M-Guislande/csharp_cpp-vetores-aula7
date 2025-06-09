@@ -1,0 +1,15 @@
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\bin\Debug\net9.0\tarefa4.exe
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\bin\Debug\net9.0\tarefa4.deps.json
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\bin\Debug\net9.0\tarefa4.runtimeconfig.json
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\bin\Debug\net9.0\tarefa4.dll
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\bin\Debug\net9.0\tarefa4.pdb
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.AssemblyInfo.cs
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.sourcelink.json
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.dll
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\refint\tarefa4.dll
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.pdb
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\tarefa4.genruntimeconfig.cache
+C:\Users\Micro\Desktop\ds_2025\tarefa_lpr\Tarefa_aula7\tarefa4\obj\Debug\net9.0\ref\tarefa4.dll

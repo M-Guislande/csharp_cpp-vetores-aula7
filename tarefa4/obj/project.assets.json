@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Micro\\Desktop\\ds_2025\\tarefa_lpr\\Tarefa_aula7\\tarefa3\\tarefa3.csproj",
-      "projectName": "tarefa3",
-      "projectPath": "C:\\Users\\Micro\\Desktop\\ds_2025\\tarefa_lpr\\Tarefa_aula7\\tarefa3\\tarefa3.csproj",
+      "projectUniqueName": "C:\\Users\\Micro\\Desktop\\ds_2025\\tarefa_lpr\\Tarefa_aula7\\tarefa4\\tarefa4.csproj",
+      "projectName": "tarefa4",
+      "projectPath": "C:\\Users\\Micro\\Desktop\\ds_2025\\tarefa_lpr\\Tarefa_aula7\\tarefa4\\tarefa4.csproj",
       "packagesPath": "C:\\Users\\Micro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Micro\\Desktop\\ds_2025\\tarefa_lpr\\Tarefa_aula7\\tarefa3\\obj\\",
+      "outputPath": "C:\\Users\\Micro\\Desktop\\ds_2025\\tarefa_lpr\\Tarefa_aula7\\tarefa4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

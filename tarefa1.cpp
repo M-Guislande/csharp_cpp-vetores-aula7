@@ -12,37 +12,33 @@ digitados.
 using namespace std;
 int main()
 {
-    int quant_par =0, quant_impar=0;
-    //introduz os vetores com o tamanho que a tarefa pede
-    vector<int> vetor(10);
-    vector<int> impar(vetor.size());
-    vector<int> par(vetor.size());
-    for(int i =0; i<vetor.size();i++)
+    int quant_par =0, quant_impar=0, entrada;
+    //introduz os vetores sem tamanho fixo
+    vector<int> vetor;
+    vector<int> par;
+    vector<int> impar;
+
+    for(int i =0; i<10; i++)
     {
         cout<<"Entre com o "<< i+1 << " numero inteiro"<<endl;
-        cin >> vetor[i];
+        cin >> entrada;
+
+// Novidade do chat: .push_back(); ele ve um numero e salva ele no vetor e adiciona mais um espaço para esse vetor  
+        vetor.push_back(entrada); 
+        
+        if (entrada %2==0) par.push_back(entrada);
+
+        else impar.push_back(entrada);       
     }
-    // analisa cada valor do vetor e verifica se ele é impar ou par
-    for(int num :vetor){
-        if (num%2==0)
-        {
-            par[quant_par] = num;
-            quant_par++;
-        }
-        else{
-            impar[quant_impar] = num;
-            quant_impar++; 
-        }
-    }
-    //mostra os numeros impares/pares se eles apareceram no vetor 
-    cout<<"Numeros pares:"<< endl;
-    for(int i = 0; i<quant_par; i++)
-    {
-        cout << par[i] << endl;
-    }
-    cout<<"Numeros impares:"<< endl;  
-    for(int i = 0; i<quant_impar; i++)
-    {
-        cout << impar[i]<< endl;
-    }
+    
+// Novidade do chat: .empty(); verifica se o vetor esta vazio
+    cout<< "Numeros pares: ";
+    if (!par.empty())
+    for(int num: par) cout << num << " ";
+    else cout<<"Nenhum numero par foi encontrado";
+
+    cout<< "\nNumeros impares: ";
+    if (!impar.empty()) 
+    for(int num: impar) cout << num << " ";
+    else cout<<"Nenhum numero impar foi encontrado";
 }
